@@ -7,3 +7,6 @@
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
 	url = git@github.com:derekwyatt/vim-scala.git
+[submodule "bundle/vim-rust"]
+	path = bundle/vim-rust
+	url = git@github.com:rust-lang/rust.vim.git
