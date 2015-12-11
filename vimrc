@@ -1,3 +1,6 @@
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
+
+map <C-n> :NERDTreeToggle<CR>
+inoremap <C-@> <c-x><c-o>
