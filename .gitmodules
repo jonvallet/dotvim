@@ -13,6 +13,3 @@
 [submodule "bundle/vim-nerdtree"]
 	path = bundle/vim-nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
-[submodule "bundle/vim-racer"]
-	path = bundle/vim-racer
-	url = git@github.com:racer-rust/vim-racer.git
